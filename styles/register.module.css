@@ -1,0 +1,8 @@
+.label{
+    display: inline-block;
+    @apply text-2xl text-blue-950 font-semibold uppercase md:w-1/4 w-full;
+}
+
+.input{
+    @apply inline-block w-full md:w-3/4 p-2 my-1 text-xl outline-1 outline-blue-500 rounded-md outline-offset-0;
+}
